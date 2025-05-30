@@ -4,7 +4,6 @@
   align-items: center;
   padding: 2rem;
   height: 100vh;
-  /* background: linear-gradient(to right, #1c1c1c, #2a2a2a); */
   color: #fff;
   box-sizing: border-box;
   overflow: auto;
@@ -20,7 +19,7 @@
 
 .chartCard {
     width: 90vw;
-    max-width: 1200px;
+    max-width: 900px;
     height: 600px;
     background-color: #222;
     border-radius: 16px;

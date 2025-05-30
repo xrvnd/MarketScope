@@ -1,0 +1,25 @@
+.dashboard {
+    padding: 40px;
+    max-width: 900px;
+    margin: 0 auto;
+    padding-top: 80px; /* Leaves space for navbar */
+    padding-inline: 2rem;
+    background: linear-gradient(to bottom, #d0eaff, #eaf6ff);
+    min-height: 100vh;
+    box-sizing: border-box;
+  }
+  
+  .dashboard-title {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #1e1e2f;
+    text-align: center;
+  }
+  
+  .chart-container {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+  
